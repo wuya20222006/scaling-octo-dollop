@@ -16,7 +16,7 @@
 
 ## 上游原版项目
 
-【https://github.com/LibreSpark/LibreTV】
+【https://github.com/LibreSpark/LibreTV 】
 
 ## 本仓库包含内容
 
