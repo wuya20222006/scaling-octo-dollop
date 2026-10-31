@@ -1,12 +1,12 @@
 软件开源声明
 
-本程序基于 LibreTV 开源项目二次分发，遵循 GNU Affero General Public License v3.0（AGPL-3.0）协议。
+本程序基于 LibreTV 开源项目二次分发，遵循 GNU Affero General Public License v3.0 (AGPL-3.0) 协议。
 
 一、上游原版项目源码地址：
-【https://github.com/LibreSpark/LibreTV】
+https://github.com/LibreSpark/LibreTV
 
 二、本版本新增修改部分源码公开地址：
-【https://github.com/wuya20222006/scaling-octo-dollop】
+https://github.com/wuya20222006/scaling-octo-dollop
 
 三、说明
 本版本未直接修改上游原始源代码，采用前端脚本注入方式增加附加功能，包括：顶部功能按钮、居中打赏弹窗、服务联系方式文案等。
