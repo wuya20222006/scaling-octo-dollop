@@ -13,7 +13,7 @@
 
 ## 上游原版项目
 
-【请替换为原版 LibreTV 官方仓库地址】
+【https://github.com/LibreSpark/LibreTV】
 
 ## 本仓库包含内容
 
