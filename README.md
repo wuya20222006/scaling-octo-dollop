@@ -11,6 +11,9 @@
 3. 新增居中放大打赏弹窗，展示微信收款码 + 支付宝收款码 + 自愿声明 + 微信号
 4. 关闭弹窗后，可重复点击顶部按钮重新唤起
 
+## 源码仓库地址
+本定制版本源码仓库：https://github.com/wuya20222006/scaling-octo-dollop
+
 ## 上游原版项目
 
 【https://github.com/LibreSpark/LibreTV】
